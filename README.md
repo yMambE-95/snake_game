@@ -1,2 +1,2 @@
 # snake_game
-a promt version of the vintage mobile game "snake game"
+This my first GUI projet in python about the vintage mobile game "snake game". 
