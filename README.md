@@ -1,2 +1,2 @@
 # snake_game
-This my first GUI projet in python about the vintage mobile game "snake game". 
+This is my first GUI project in python about the vintage mobile game "snake game". 
